@@ -1,5 +1,4 @@
 # Welcome to Static Island.
-## A really simple static boilerplate.
 
 This is a dead simple boilerplate for static html pages using 🥤 Gulp4 and BrowserSync for 🔄 auto reloading.
 
